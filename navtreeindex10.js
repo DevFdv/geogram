@@ -1,5 +1,13 @@
 var NAVTREEINDEX10 =
 {
+"classGEO_1_1OptimalTransportMap.html#a5146ded2e6e723498f4ca512aa8ee307":[6,0,0,136,2],
+"classGEO_1_1OptimalTransportMap.html#a567a69058e428238f61022038f466211":[6,0,0,136,50],
+"classGEO_1_1OptimalTransportMap.html#a5be4d20b7795c402e4d3d97f86dc7e13":[6,0,0,136,1],
+"classGEO_1_1OptimalTransportMap.html#a5c2a26884d2bfd158b4f07508482c7bc":[6,0,0,136,56],
+"classGEO_1_1OptimalTransportMap.html#a623bcb3f727b199881b63e930be5b60f":[6,0,0,136,12],
+"classGEO_1_1OptimalTransportMap.html#a627bc85d1c2d8e4aa3dec9403e6ac872":[6,0,0,136,52],
+"classGEO_1_1OptimalTransportMap.html#a68460c2ece4ac33925aed720bf6f7fba":[6,0,0,136,33],
+"classGEO_1_1OptimalTransportMap.html#a68b3debbf1e6a8feef1ecef0924fefbe":[6,0,0,136,44],
 "classGEO_1_1OptimalTransportMap.html#a6b860441e55f4446a50cd319e01c8562":[6,0,0,136,49],
 "classGEO_1_1OptimalTransportMap.html#a6e2c075b4f90580808510e3d3a68e1cf":[6,0,0,136,30],
 "classGEO_1_1OptimalTransportMap.html#a7508f364b8a8d2a05580e481a80a86e9":[6,0,0,136,53],
@@ -241,13 +249,5 @@ var NAVTREEINDEX10 =
 "classGEO_1_1PeriodicDelaunay3d.html#ab685a42b33c06b16baec1b9dfa356dd4":[6,0,0,147,6],
 "classGEO_1_1PeriodicDelaunay3d.html#aca0aef466a2542e8e4e12ddc5bb00263":[6,0,0,147,9],
 "classGEO_1_1PeriodicDelaunay3d.html#ad49f61a6eb39f7ac04e297039e991178":[6,0,0,147,23],
-"classGEO_1_1PeriodicDelaunay3d.html#ad87cd51f27f45646b2b30dd00e777112":[6,0,0,147,11],
-"classGEO_1_1PeriodicDelaunay3d.html#ae6e6adbba69737f44a49a24ae303dbd7":[6,0,0,147,5],
-"classGEO_1_1PeriodicDelaunay3d.html#af1de78a99193adc96433e0f3200bcf13":[6,0,0,147,18],
-"classGEO_1_1PeriodicDelaunay3d.html#af5112f213566dea0fa037f874d1ccb83":[6,0,0,147,17],
-"classGEO_1_1PrincipalAxes3d.html":[6,0,0,152],
-"classGEO_1_1PrincipalAxes3d.html#a1e121d20604c0f47ec551649f364a647":[6,0,0,152,5],
-"classGEO_1_1PrincipalAxes3d.html#a3ec1968bb1ab10f878a472b9e62aea80":[6,0,0,152,3],
-"classGEO_1_1PrincipalAxes3d.html#a41c8e11b369e71fed7dbb709b89e709d":[6,0,0,152,7],
-"classGEO_1_1PrincipalAxes3d.html#a4916f2217d506da6b0600ddc19f31c83":[6,0,0,152,0]
+"classGEO_1_1PeriodicDelaunay3d.html#ad87cd51f27f45646b2b30dd00e777112":[6,0,0,147,11]
 };

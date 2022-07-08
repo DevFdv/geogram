@@ -1,5 +1,13 @@
 var NAVTREEINDEX4 =
 {
+"classGEO_1_1BalancedKdTree.html#a62f872bb9abe28ce000c29863eeee415":[6,0,0,19,14],
+"classGEO_1_1BalancedKdTree.html#a6576d9f49cf5d6209cbcbf90fc376443":[6,0,0,19,0],
+"classGEO_1_1BalancedKdTree.html#a7eacae1b2fb81540357cd2313e7a0ac3":[6,0,0,19,16],
+"classGEO_1_1BalancedKdTree.html#a8d93dc32f1afd8983d3b08ce3ef3fa73":[6,0,0,19,1],
+"classGEO_1_1BalancedKdTree.html#aa1a5a1ef832512d0555d191e32f33200":[6,0,0,19,6],
+"classGEO_1_1BalancedKdTree.html#aa305642c99bf0e8157cbd8a82a352af9":[6,0,0,19,10],
+"classGEO_1_1BalancedKdTree.html#acb4375ab318daec1868042b961948b58":[6,0,0,19,2],
+"classGEO_1_1BalancedKdTree.html#acb75b9eded702a20e421ea0c4b44ddb1":[6,0,0,19,3],
 "classGEO_1_1BalancedKdTree.html#ad88ec4a8a29d7ddc0fcc3fcca3a3c8e6":[6,0,0,19,17],
 "classGEO_1_1BalancedKdTree.html#addac8f67541891478674bde413c2ddb8":[6,0,0,19,12],
 "classGEO_1_1BalancedKdTree.html#ae90839a3d6fb3875c843f34275299942":[6,0,0,19,7],
@@ -241,13 +249,5 @@ var NAVTREEINDEX4 =
 "classGEO_1_1Counted.html#ad65d101b5f7315b44d4507103fb6bfda":[6,0,0,42,3],
 "classGEO_1_1Delaunay.html":[6,0,0,43],
 "classGEO_1_1Delaunay.html#a0893d8a63ab5900e84be7dbb296c3845":[6,0,0,43,4],
-"classGEO_1_1Delaunay.html#a0fe3fa476e96d65a0575d491461c2019":[6,0,0,43,61],
-"classGEO_1_1Delaunay.html#a11e6febead4dc2cf236dd252de00757e":[6,0,0,43,27],
-"classGEO_1_1Delaunay.html#a18f2aca195dc58aba15d6570ff133dc8":[6,0,0,43,37],
-"classGEO_1_1Delaunay.html#a193fd661b910360a340ca12cdeca8d39":[6,0,0,43,11],
-"classGEO_1_1Delaunay.html#a204d1e30de3adda22a7eb039701f09f2":[6,0,0,43,79],
-"classGEO_1_1Delaunay.html#a21b099835924884493fb76e4e5d2d13c":[6,0,0,43,24],
-"classGEO_1_1Delaunay.html#a23d17106ded8b4d3171b522fbf369fee":[6,0,0,43,64],
-"classGEO_1_1Delaunay.html#a24f328c098b4f6bae5f318428a930f3c":[6,0,0,43,40],
-"classGEO_1_1Delaunay.html#a2715267349f6b23382d1b00dd729036d":[6,0,0,43,52]
+"classGEO_1_1Delaunay.html#a0fe3fa476e96d65a0575d491461c2019":[6,0,0,43,61]
 };

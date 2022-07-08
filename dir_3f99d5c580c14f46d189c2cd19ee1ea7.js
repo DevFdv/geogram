@@ -1,6 +1,7 @@
 var dir_3f99d5c580c14f46d189c2cd19ee1ea7 =
 [
     [ "algorithm.h", "algorithm_8h.html", "algorithm_8h" ],
+    [ "android_utils.h", "android__utils_8h.html", "android__utils_8h" ],
     [ "android_wrapper.h", "android__wrapper_8h.html", "android__wrapper_8h" ],
     [ "argused.h", "argused_8h.html", "argused_8h" ],
     [ "assert.h", "assert_8h.html", "assert_8h" ],

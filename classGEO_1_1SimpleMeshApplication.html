@@ -26,7 +26,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Geogram
-   &#160;<span id="projectnumber">Version 1.7.8</span>
+   &#160;<span id="projectnumber">Version 1.7.9</span>
    </div>
    <div id="projectbrief">A programming library of geometric algorithms</div>
   </td>
@@ -334,6 +334,18 @@ Protected Member Functions</h2></td></tr>
 <tr class="memitem:a3afd197016aba9305335358de64c0efc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classbool.html">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#a3afd197016aba9305335358de64c0efc">save</a> (const std::string &amp;filename) override</td></tr>
 <tr class="memdesc:a3afd197016aba9305335358de64c0efc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Saves the current content to a file.  <a href="classGEO_1_1SimpleMeshApplication.html#a3afd197016aba9305335358de64c0efc">More...</a><br /></td></tr>
 <tr class="separator:a3afd197016aba9305335358de64c0efc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e161f573bf51a213314a269d0b1326a"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#a3e161f573bf51a213314a269d0b1326a">draw_points</a> ()</td></tr>
+<tr class="memdesc:a3e161f573bf51a213314a269d0b1326a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called at the beginning of <a class="el" href="classGEO_1_1SimpleMeshApplication.html#ae78f5452c9c3715c912988cd5a86decf" title="Draws the scene.">draw_scene()</a>.  <a href="classGEO_1_1SimpleMeshApplication.html#a3e161f573bf51a213314a269d0b1326a">More...</a><br /></td></tr>
+<tr class="separator:a3e161f573bf51a213314a269d0b1326a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e5c80bc6fe72e15e194de63add8c95f"><td class="memItemLeft" align="right" valign="top"><a id="a1e5c80bc6fe72e15e194de63add8c95f"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>draw_edges</b> ()</td></tr>
+<tr class="separator:a1e5c80bc6fe72e15e194de63add8c95f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac413c3a4127d46c1f592311bbb375fb9"><td class="memItemLeft" align="right" valign="top"><a id="ac413c3a4127d46c1f592311bbb375fb9"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>draw_surface</b> ()</td></tr>
+<tr class="separator:ac413c3a4127d46c1f592311bbb375fb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a202afb0d3e78f6428e56f565b24e0896"><td class="memItemLeft" align="right" valign="top"><a id="a202afb0d3e78f6428e56f565b24e0896"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>draw_volume</b> ()</td></tr>
+<tr class="separator:a202afb0d3e78f6428e56f565b24e0896"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a065b9f36bd59de5859156685e5a94fab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#a065b9f36bd59de5859156685e5a94fab">get_bbox</a> (const <a class="el" href="classGEO_1_1Mesh.html">Mesh</a> &amp;M_in, double *xyzmin, double *xyzmax, <a class="el" href="classbool.html">bool</a> animate)</td></tr>
 <tr class="memdesc:a065b9f36bd59de5859156685e5a94fab"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the bounding box of a mesh animation.  <a href="classGEO_1_1SimpleMeshApplication.html#a065b9f36bd59de5859156685e5a94fab">More...</a><br /></td></tr>
 <tr class="separator:a065b9f36bd59de5859156685e5a94fab"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -367,14 +379,14 @@ void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="clas
 void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#aaa94f80dc9ddfbab3aa3214a80facea6">hide_volume</a> ()</td></tr>
 <tr class="memdesc:aaa94f80dc9ddfbab3aa3214a80facea6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes the volume cells invisible. <br /></td></tr>
 <tr class="separator:aaa94f80dc9ddfbab3aa3214a80facea6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaadb5d95ef904477ae7a2d949fcf31fa"><td class="memItemLeft" align="right" valign="top"><a id="aaadb5d95ef904477ae7a2d949fcf31fa"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#aaadb5d95ef904477ae7a2d949fcf31fa">show_attributes</a> ()</td></tr>
-<tr class="memdesc:aaadb5d95ef904477ae7a2d949fcf31fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes the attributes visible. <br /></td></tr>
-<tr class="separator:aaadb5d95ef904477ae7a2d949fcf31fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a660a11916e406996b94fc8d0b6f1f73d"><td class="memItemLeft" align="right" valign="top"><a id="a660a11916e406996b94fc8d0b6f1f73d"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#a660a11916e406996b94fc8d0b6f1f73d">hide_attributes</a> ()</td></tr>
-<tr class="memdesc:a660a11916e406996b94fc8d0b6f1f73d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes the attributes invisible. <br /></td></tr>
-<tr class="separator:a660a11916e406996b94fc8d0b6f1f73d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19a574a99921c05b3988305541566aaf"><td class="memItemLeft" align="right" valign="top"><a id="a19a574a99921c05b3988305541566aaf"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#a19a574a99921c05b3988305541566aaf">show_attributes</a> ()</td></tr>
+<tr class="memdesc:a19a574a99921c05b3988305541566aaf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes the attributes visible. <br /></td></tr>
+<tr class="separator:a19a574a99921c05b3988305541566aaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee965c8ee2dd7f7bc1a170974956dc54"><td class="memItemLeft" align="right" valign="top"><a id="aee965c8ee2dd7f7bc1a170974956dc54"></a>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#aee965c8ee2dd7f7bc1a170974956dc54">hide_attributes</a> ()</td></tr>
+<tr class="memdesc:aee965c8ee2dd7f7bc1a170974956dc54"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes the attributes invisible. <br /></td></tr>
+<tr class="separator:aee965c8ee2dd7f7bc1a170974956dc54"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a90646a950926524ed40ec1772dda27"><td class="memItemLeft" align="right" valign="top"><a id="a1a90646a950926524ed40ec1772dda27"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classGEO_1_1SimpleMeshApplication.html#a1a90646a950926524ed40ec1772dda27">autorange</a> ()</td></tr>
 <tr class="memdesc:a1a90646a950926524ed40ec1772dda27"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adjusts the current minimum and maximum attribute value to the currently bound attribute if any. <br /></td></tr>
@@ -598,9 +610,6 @@ Protected Attributes</h2></td></tr>
 <tr class="memitem:a67991f89238153b44f8e148e24cf3eab"><td class="memItemLeft" align="right" valign="top"><a id="a67991f89238153b44f8e148e24cf3eab"></a>
 <a class="el" href="classGEO_1_1MeshGfx.html">MeshGfx</a>&#160;</td><td class="memItemRight" valign="bottom"><b>mesh_gfx_</b></td></tr>
 <tr class="separator:a67991f89238153b44f8e148e24cf3eab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62845309c778a6eef8ad772dffef2fe3"><td class="memItemLeft" align="right" valign="top"><a id="a62845309c778a6eef8ad772dffef2fe3"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>file_extensions_</b></td></tr>
-<tr class="separator:a62845309c778a6eef8ad772dffef2fe3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a823c80d57c80017aa16952dba5c6ac3c"><td class="memItemLeft" align="right" valign="top"><a id="a823c80d57c80017aa16952dba5c6ac3c"></a>
 float&#160;</td><td class="memItemRight" valign="bottom"><b>anim_speed_</b></td></tr>
 <tr class="separator:a823c80d57c80017aa16952dba5c6ac3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -974,6 +983,34 @@ static <a class="el" href="classGEO_1_1SimpleApplication.html">SimpleApplication
 
 </div>
 </div>
+<a id="a3e161f573bf51a213314a269d0b1326a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e161f573bf51a213314a269d0b1326a">&#9670;&nbsp;</a></span>draw_points()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void GEO::SimpleMeshApplication::draw_points </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Called at the beginning of <a class="el" href="classGEO_1_1SimpleMeshApplication.html#ae78f5452c9c3715c912988cd5a86decf" title="Draws the scene.">draw_scene()</a>. </p>
+<p>Configures mesh_graphics_ in function of drawing attributes. </p>
+
+</div>
+</div>
 <a id="ae78f5452c9c3715c912988cd5a86decf"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae78f5452c9c3715c912988cd5a86decf">&#9670;&nbsp;</a></span>draw_scene()</h2>
 
@@ -1280,7 +1317,7 @@ static <a class="el" href="classGEO_1_1SimpleApplication.html">SimpleApplication
 <p>Gets the mesh. </p>
 <dl class="section return"><dt>Returns</dt><dd>a pointer to the <a class="el" href="classGEO_1_1Mesh.html" title="Represents a mesh.">Mesh</a>. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="simple__mesh__application_8h_source.html#l00166">166</a> of file <a class="el" href="simple__mesh__application_8h_source.html">simple_mesh_application.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="simple__mesh__application_8h_source.html#l00176">176</a> of file <a class="el" href="simple__mesh__application_8h_source.html">simple_mesh_application.h</a>.</p>
 
 </div>
 </div>
@@ -1310,7 +1347,7 @@ static <a class="el" href="classGEO_1_1SimpleApplication.html">SimpleApplication
 <p>Gets the mesh graphics. </p>
 <dl class="section return"><dt>Returns</dt><dd>a pointer to the <a class="el" href="classGEO_1_1MeshGfx.html" title="Draws a mesh using OpenGL.">MeshGfx</a>. </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="simple__mesh__application_8h_source.html#l00174">174</a> of file <a class="el" href="simple__mesh__application_8h_source.html">simple_mesh_application.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="simple__mesh__application_8h_source.html#l00184">184</a> of file <a class="el" href="simple__mesh__application_8h_source.html">simple_mesh_application.h</a>.</p>
 
 </div>
 </div>
@@ -1455,7 +1492,7 @@ static <a class="el" href="classGEO_1_1SimpleApplication.html">SimpleApplication
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceGEO.html">GEO</a></li><li class="navelem"><a class="el" href="classGEO_1_1SimpleMeshApplication.html">SimpleMeshApplication</a></li>
-    <li class="footer">Generated on Tue Mar 8 2022 10:48:08 for Geogram by
+    <li class="footer">Generated on Fri Jul 8 2022 14:43:30 for Geogram by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>
