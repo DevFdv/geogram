@@ -1,5 +1,9 @@
 var NAVTREEINDEX24 =
 {
+"structLogTime.html#acbbfba4cd3044a6857538f858590c7a9":[6,0,4,8],
+"structLogTime.html#ae51d1dd28f042d37e157b81e7b2899e1":[6,0,4,0],
+"structLogTime.html#af64876c9467db24e1f631d8b7b008146":[6,0,4,2],
+"structLogTime.html#afe95585480e1bd8834719681d98d1d5d":[6,0,4,5],
 "structNLBlas.html":[6,0,5],
 "structNLBlas.html#a01e161ef9cd10bf25bb41d3aee4d7376":[6,0,5,15],
 "structNLBlas.html#a105792a1bb3ebe99ea0b4d03fb8430f0":[6,0,5,16],

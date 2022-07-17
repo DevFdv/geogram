@@ -126,11 +126,12 @@ var searchData=
   ['is_5frunning_5fthreads_1270',['is_running_threads',['../namespaceGEO_1_1Process.html#ab2af8b5fb01c7f6de9266a03b44f0a75',1,'GEO::Process']]],
   ['is_5fshared_1271',['is_shared',['../classGEO_1_1Counted.html#a4e386db78edae7cfb09665ad11339373',1,'GEO::Counted']]],
   ['is_5fsimplicial_1272',['is_simplicial',['../classGEO_1_1MeshFacets.html#a6c5a7f47e67e29649f2d927fc6836d93',1,'GEO::MeshFacets']]],
-  ['is_5fvalid_1273',['is_valid',['../namespaceGEO_1_1Permutation.html#acbeaeede5d1da8f9cf5a3d0867025a7c',1,'GEO::Permutation']]],
-  ['is_5fvisible_1274',['is_visible',['../classGEO_1_1Command.html#a0d0b0148f3289781dc343479a6334a6d',1,'GEO::Command']]],
-  ['is_5fvisible_5fptr_1275',['is_visible_ptr',['../classGEO_1_1Command.html#a4fe47da7a98a7ccd811c13000c557a1f',1,'GEO::Command']]],
-  ['isect_5fvertex_5fattribute_5f_1276',['isect_vertex_attribute_',['../classGLUP_1_1Context.html#a7ec19d95025feafdf244d60d3a45237a',1,'GLUP::Context']]],
-  ['item_1277',['item',['../classGEOGen_1_1PointAllocator.html#a627208137e4c3059c16e1c32103594cc',1,'GEOGen::PointAllocator']]],
-  ['itemsize_1278',['ItemSize',['../structGEO_1_1BinaryStream_1_1ItemSize.html',1,'GEO::BinaryStream']]],
-  ['iterator_1279',['iterator',['../classGEOGen_1_1small__set.html#a70d17f189d8f03ed0d34102ca4696e90',1,'GEOGen::small_set']]]
+  ['is_5fsock_1273',['is_sock',['../structGEO_1_1Chart.html#a0c55d3b70a2c613859196cee34294e84',1,'GEO::Chart']]],
+  ['is_5fvalid_1274',['is_valid',['../namespaceGEO_1_1Permutation.html#acbeaeede5d1da8f9cf5a3d0867025a7c',1,'GEO::Permutation']]],
+  ['is_5fvisible_1275',['is_visible',['../classGEO_1_1Command.html#a0d0b0148f3289781dc343479a6334a6d',1,'GEO::Command']]],
+  ['is_5fvisible_5fptr_1276',['is_visible_ptr',['../classGEO_1_1Command.html#a4fe47da7a98a7ccd811c13000c557a1f',1,'GEO::Command']]],
+  ['isect_5fvertex_5fattribute_5f_1277',['isect_vertex_attribute_',['../classGLUP_1_1Context.html#a7ec19d95025feafdf244d60d3a45237a',1,'GLUP::Context']]],
+  ['item_1278',['item',['../classGEOGen_1_1PointAllocator.html#a627208137e4c3059c16e1c32103594cc',1,'GEOGen::PointAllocator']]],
+  ['itemsize_1279',['ItemSize',['../structGEO_1_1BinaryStream_1_1ItemSize.html',1,'GEO::BinaryStream']]],
+  ['iterator_1280',['iterator',['../classGEOGen_1_1small__set.html#a70d17f189d8f03ed0d34102ca4696e90',1,'GEOGen::small_set']]]
 ];
